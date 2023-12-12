@@ -8,6 +8,7 @@ const UserList = () => {
             <Search/>
 
             <UserListTable/>
+
         </section>
     );
 };
